@@ -1,20 +1,24 @@
 {
-"videos": [
-{
-"title": "DICAS FINANCEIRAS que mudarão SUA MENTE! (Educação Financeira, Dívidas, Pé-de-Meia) - PRIMO POBRE",
-"url": "https://youtu.be/50tCu7gGN-Q"
-},
-{
-"title": "Educação Financeira – Educação Financeira Para Iniciante! - Investindo Melhor",
-"url": "https://youtu.be/HzRK6wTSHHU"
-},
-{
-"title": "As SIMPLES Técnicas p/ GASTAR Menos Dinheiro (Educação Financeira | Ep. 01) - Investindo Melhor",
-"url": "https://youtu.be/dF7K-fnOYF8"
-},
-{
-"title": "4 Pilares Comprovados p/ Acumular Dinheiro Rápido (A Regra dos 90 Dias) - Manual da Evolução",
-"url": "https://www.youtube.com/watch?v=GXy__kBVq1M"
-}
-]
-}
+    "videos": [
+    {
+    "title": "DICAS FINANCEIRAS que mudarão SUA MENTE! (Educação Financeira, Dívidas, Pé-de-Meia) - PRIMO POBRE",
+    "url": "https://youtu.be/50tCu7gGN-Q",
+    "descricao": "Neste vídeo, você verá dicas para você conseguir ter mais controle sobre suas finanças."
+    },
+    {
+    "title": "Educação Financeira – Educação Financeira Para Iniciante! - Investindo Melhor",
+    "url": "https://youtu.be/HzRK6wTSHHU",
+    "descricao": "Neste vídeo, você aprenderá conceitos básicos de educação financeira para iniciantes, como orçamento e investimentos."
+    },
+    {
+    "title": "As SIMPLES Técnicas p/ GASTAR Menos Dinheiro (Educação Financeira | Ep. 01) - Investindo Melhor",
+    "url": "https://youtu.be/dF7K-fnOYF8",
+    "descricao": "Neste vídeo, você irá técnicas simples para gastar menos dinheiro e controlar melhor as finanças pessoais."
+    },
+    {
+    "title": "4 Pilares Comprovados p/ Acumular Dinheiro Rápido (A Regra dos 90 Dias) - Manual da Evolução",
+    "url": "https://www.youtube.com/watch?v=GXy__kBVq1M",
+    "descricao": "Neste vídeo, você aprenderá sobre os 4 pilares comprovados para acumular dinheiro rapidamente."
+    }
+    ]
+    }
